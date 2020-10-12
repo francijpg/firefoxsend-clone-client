@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    backendURL: process.env.NEXT_PUBLIC_BACKENDURL,
-    frontendURL: process.env.NEXT_PUBLIC_FRONTENDURL,
+    backendURL: "https://firefoxsend-clone-server.herokuapp.com",
+    frontendURL: "https://firefoxsend-client.vercel.app",
   },
 };
